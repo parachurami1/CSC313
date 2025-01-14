@@ -3,7 +3,6 @@
  * Please note that this is a rough work & might have logic errors. Go through it first!!!
  */
 
-package com.mycompany.holiayassignment;
 import java.util.Scanner;
 import java.util.Arrays;
 
